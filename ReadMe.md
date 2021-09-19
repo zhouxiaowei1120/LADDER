@@ -25,8 +25,6 @@ Fig. 1: Overview of Latent Boundary-guided Adversarial Training.
 
 
 ### Running Code
-- Dataset: MNIST 
-- Pretrained weights for generator: 
 - Running command:  
   For training generator:
   ```shell
